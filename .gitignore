@@ -1,3 +1,6 @@
+# Application
+app/ml_models/*.joblib
+
 # Distribution / packaging
 .Python
 env/
